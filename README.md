@@ -3,14 +3,14 @@
 > A collection of awesome security hardening software, libraries, learning tutorials & documents, e-books, best practices, checklists, benchmarks about hardening in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-##  What is Security Hardening?
+##  `What is Security Hardening?`
 
 Hardening, when applied to computing, is the practice of reducing a system’s vulnerability by reducing its attack surface.
 
 Hardening may involve a reduction in attack vectors by culling the pathways, or vectors, attackers would use. It may range from adhering to blanket policies such as Zero Trust, the Principle of Least Privilege (PoLP), or Defense In Depth, but also manifest as certain task lists such as implementing workforce training, segmenting resources, automating security updates, resetting default passwords, hashing passwords, and ceasing to store or transmit data unless it is encrypted.
 
 
-## Table of Contents
+## `Table of Contents`
 
 - [Security Hardening Guides and Best Practices](#security-hardening-guides-and-best-practices)
   - [Hardening Guide Collections](#hardening-guide-collections)
@@ -74,7 +74,7 @@ Hardening may involve a reduction in attack vectors by culling the pathways, or 
 
 # Security Hardening Guides and Best Practices
 
-## Hardening Guide Collections
+## `Hardening Guide Collections`
 
 - [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (registration required)
 - [ANSSI Best Practices](https://www.ssi.gouv.fr/en/best-practices/)
@@ -86,7 +86,7 @@ Hardening may involve a reduction in attack vectors by culling the pathways, or 
 - [FIRST Best Practice Guide Library (BPGL)](https://www.first.org/resources/guides/)
 - [Harden the World](http://hardentheworld.org/) - a collection of hardening guidelines for devices, applications and OSs (mostly Apple for now).
 
-## GNU/Linux
+## `GNU/Linux`
 
 - [ANSSI - Configuration recommendations of a GNU/Linux system](https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/)
 - [CIS Benchmark for Distribution Independent Linux](https://www.cisecurity.org/benchmark/distribution_independent_linux/)
@@ -100,29 +100,29 @@ Hardening may involve a reduction in attack vectors by culling the pathways, or 
 - [trimstray - Iptables Essentials: Common Firewall Rules and Commands](https://github.com/trimstray/iptables-essentials)
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 
-### Red Hat Enterprise Linux - RHEL
+###` Red Hat Enterprise Linux - RHEL`
 
 - [Red Hat - A Guide to Securing Red Hat Enterprise Linux 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index)
 - [DISA STIGs - Red Hat Enterprise Linux 7](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux) (2019)
 - [CIS Benchmark for Red Hat Linux](https://www.cisecurity.org/benchmark/red_hat_linux/)
 - [nixCraft - How to set up a firewall using FirewallD on RHEL 8](https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/)
 
-### CentOS
+### `CentOS`
 
 - [Lisenet - CentOS 7 Server Hardening Guide](https://www.lisenet.com/2017/centos-7-server-hardening-guide/) (2017)
 - [HighOn.Coffee - Security Harden CentOS 7](https://highon.coffee/blog/security-harden-centos-7/) (2015)
 
-### SUSE
+### `SUSE`
 
 - [SUSE Linux Enterprise Server 12 SP4 Security Guide](https://www.suse.com/documentation/sles-12/singlehtml/book_security/book_security.html)
 - [SUSE Linux Enterprise Server 12 Security and Hardening Guide](https://www.suse.com/documentation/sles-12/book_hardening/data/book_hardening.html)
 
-### Ubuntu
+### `Ubuntu`
 
 - [Ubuntu documentation - Security](https://help.ubuntu.com/lts/serverguide/security.html.en)
 - [Ubuntu wiki - Security Hardening Features](https://wiki.ubuntu.com/Security/Features)
 
-## Windows
+### `Windows`
 
 - [Microsoft - Windows security baselines](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines)
 - [Microsoft - Windows Server Security | Assurance](https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance)
