@@ -10,7 +10,7 @@ Hardening, when applied to computing, is the practice of reducing a system’s v
 Hardening may involve a reduction in attack vectors by culling the pathways, or vectors, attackers would use. It may range from adhering to blanket policies such as Zero Trust, the Principle of Least Privilege (PoLP), or Defense In Depth, but also manifest as certain task lists such as implementing workforce training, segmenting resources, automating security updates, resetting default passwords, hashing passwords, and ceasing to store or transmit data unless it is encrypted.
 
 
-# Table of Contents
+## Table of Contents
 
 - [Security Hardening Guides and Best Practices](#security-hardening-guides-and-best-practices)
   - [Hardening Guide Collections](#hardening-guide-collections)
