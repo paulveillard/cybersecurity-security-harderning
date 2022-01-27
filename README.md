@@ -395,36 +395,38 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [Vitux - 8 Ways to Generate a Random Password on Linux Shell](https://vitux.com/generation-of-a-random-password-on-linux-shell/)
 - [SS64 - Password security and a comparison of Password Generators](https://ss64.com/docs/security.html)
 
-# Books
 
-# Other Awesome Lists
-
-- [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 ## Other Awesome Security Lists
 
-(borrowed from [Awesome Security](https://github.com/sbilly/awesome-security))
-
-- [Awesome Security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-- [Android Security Awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources.
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software.
+- [Cybersecurity Android Security](https://github.com/paulveillard/cybersecurity-android-security) - A collection of android security related resources.
+- [Cybersecurity macOS & iOS Security](https://github.com/paulveillard/cybersecurity-macOS-iOS-security) - A collection of macOS and iOS security related resources.
+- [Cybersecurity ARM Exploitation](https://github.com/paulveillard/cybersecurity-windows-exploitation) - A curated list of Windows & ARM exploitation resources.
+- [Cybersecurity CTF](https://github.com/paulveillard/cybersecurity-ctf) - A curated list of CTF frameworks, libraries, resources and software.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
-- [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources.
+- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
+- [Cybersecurity Data Privacy](https://github.com/paulveillard/cybersecurity-data-privacy) - A curated list of digital security and privacy tips, with links to further resources.
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - An awesome list of honeypot resources.
-- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - A curated list of awesome malware analysis tools and resources.
+- [Cybersecurity Malware Analysis](https://github.com/paulveillard/cybersecurity-malware-analysis) - A curated list of awesome malware analysis tools and resources.
 - [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
-- [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
+- [Cybersecurity Penetration Testing](https://github.com/paulveillard/cybersecurity-penetration-testing) - A collection of awesome penetration testing resources, tools and other shiny things.
 - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+- [Cybersecurity Incident Response](https://github.com/paulveillard/cybersecurity-incident-response) - A curated list of resources for incident response.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
-- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
+- [Cybersecurity Hacking](https://github.com/paulveillard/cybersecurity-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+- [Awesome Electron.js Hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
+- [Cybersecurity Threat Intelligence](https://github.com/pauveillard/cybersecurity-threat-intelligence) - A curated list of threat intelligence resources.
+- [Cybersecurity Threat Detection](https://github.com/paulveillard/cybersecurity-threat-detection) -  A curated list of threat modeling resources.
+- [Cybersecurity Cryptography](https://github.com/paulveillard/cybersecurity-cryptography) -  A curated list of cryptography resources.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
-- [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
+- [Cybersecurity Industrial Control System Security](https://github.com/paulveillard/cybersecurity-industrial-control-systems-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
-- [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
-- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
+- [Cybersecurity Threat Detection and Hunting](https://github.com/paulveillard/cybersecurity-threat-detection) - A curated list of awesome threat detection and hunting resources.
+- [Cybersecurity Container Security](https://github.com/paulveillard/cybersecurity-container-security) - A curated list of awesome resources related to container building and runtime security
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
-
+- [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - A collection of interesting, funny, and depressing search queries to plug into Shodan.io.
+- [Cybersecurity Digital Forensics](https://github.com/paulveillard/cybersecurity-forensics) - A collection of awesome tools used to counter forensics activities.
+- [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
 
 
