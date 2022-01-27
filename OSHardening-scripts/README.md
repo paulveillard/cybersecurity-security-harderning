@@ -1,9 +1,10 @@
-# OSHardening
+# OSHardening Scripts
 
-In computing, hardening is usually the process of securing a system by reducing its surface of vulnerability, which is larger when a system performs more functions; in principle a single-function system is more secure than a multipurpose one. Reducing available ways of attack typically includes changing default passwords, the removal of unnecessary software, unnecessary usernames or logins, and the disabling or removal of unnecessary services.
+In computer security, [hardening](https://en.wikipedia.org/wiki/Hardening_(computing) is usually the process of securing a system by reducing its surface of vulnerability, which is larger when a system performs more functions; in principle a single-function system is more secure than a multipurpose one. Reducing available ways of attack typically includes changing default passwords, the removal of unnecessary software, unnecessary usernames or logins, and the disabling or removal of unnecessary services.
+
+
 Clone repository
 
-Source: Wikipedia
 
 ## How to:
 
